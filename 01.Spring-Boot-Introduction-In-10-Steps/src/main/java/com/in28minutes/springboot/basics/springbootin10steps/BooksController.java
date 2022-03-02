@@ -13,6 +13,7 @@ public class BooksController {
 		return Arrays.asList(
 				new Book(1l, "Mastering Spring 5.2", "Isthiyak Saalim M"), 
 				new Book(2l, "Mastering Spring Boot", "Nawrin Banu S"), 
-				new Book(3l, "Mastering Python", "Lorem Ipsum M"));
+				new Book(3l, "Mastering Python", "Lorem Ipsum M"), 
+				new Book(4l, "Mastering Javascript", "Lorem Ipsum M"));
 	}
 }
